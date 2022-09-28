@@ -1,4 +1,4 @@
-import os
+import argparse
 
 touches = {
     "à": (5,3),
@@ -71,3 +71,13 @@ l = ["a","i","e","u","t","s","r","n"]
 ai = ["a","u","t","n"]
 ami = ["a","e","u","t","s","n"]
 aai = ["a","i","u","t","r","n"]
+
+parser = argparse.ArgumentParser()
+parser.add_argument("touches", help="les touches sous forme d'une string sans espaces ni séparation")
+parser.add_argument("fichier", help="le nom du fichier devant contenir la liste de mots")
+args = parser.parse_args()
+
+touches = list(args.touches)
+out = args.fichier
+
+ListeDeMots(touches, out)
