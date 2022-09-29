@@ -118,3 +118,25 @@ Il dardait la natte satinée et luisante en attendant son entrée et se resaissi
 j' j' j' j' j' j' j' j' j' j' j' j'
 
 # annulaires révision [aieutsrnjoédl']
+J'étais sûr d'adjoindre autant de notes sensationnelles dans ses essais narrés au sujet des nantais
+Je dissertai sur les dolines sans induire d'erreurs
+Les orientalistes étudiaient la rationalité de ses études sans ressasser
+L'étudiant tatillon sortait de sa sieste en truandant son état
+
+
+# Auriculaires [àq]
+
+à q à q à q à q à q à q à q q q q q q q à à à à q à q à q à q à q q q
+qu qu qu qu qu qu qu qu' qu' qu' qu' qu' qu' qu' qu' qu'
+que que que que qui qui qui qui à qui à qui à qui à qui à qui à quel à quel
+quel que soit qui que soit quoi quand qui quels quelles qu'ils étaient en train de dire à qui
+
+# Auriculaires révision [aieutsrnàjédl'q]
+Il adorait entendre sa tante qui sise dissertait sur ses arnaques 
+Ses étreintes dissolues le laissaient doléant
+Elle l'étudiait tout en tendresse tandis qu'il s'adressait à elle
+Il étudia les ustensiles laissés à l'attention de son assistant désordonné
+Il s'étendit à terre en quadrillant les radieuses rues du quartier traditionnel
+Des truands traquent les usuriers du quartiere
+La translitération l'étonna tant qu'il attendit un instant en tirant sur ses jointures
+La lente instillation de l'éloquente tenue lui assura d'étonnantes relations
